@@ -17,7 +17,7 @@ CNN for transferring style from source image to target image. Based on <a href="
 
 <img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/inky_loo.png?raw=true"/>
 <img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/hunter_s_loo.png?raw=true"/>
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/zombie_loo.png?raw=true"/>
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/candiloo.png?raw=true"/>
+<img width=16% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/zombie_loo.png?raw=true"/>
+<img width=18% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/candiloo.png?raw=true"/>
 <img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/forest_loo.png?raw=true"/>
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/thorny_loo.png?raw=true"/>
+<img width=17% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/thorny_loo.png?raw=true"/>
