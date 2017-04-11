@@ -15,15 +15,13 @@ CNN for transferring style from source image to target image. Based on <a href="
 
 <h3>Examples:</h3>
 
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/inky_loo.png"/>
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/hunter_s_loo.png"/>
+<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/inky_loo.png"/><img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/hunter_s_loo.png"/>
 <img width=16% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/zombie_loo.png"/>
 <img width=18% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/candiloo.png"/>
 <img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/forest_loo.png"/>
 <img width=17% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/thorny_loo.png"/>
 
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/ink_face.jpg"/>
-<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fear_and_loathing.jpg"/>
+<img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/ink_face.jpg"/><img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fear_and_loathing.jpg"/>
 <img width=16% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/zombie.jpg"/>
 <img width=18% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples//style_images/candy.jpg"/>
 <img width=15% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/old_forest.jpg"/>
